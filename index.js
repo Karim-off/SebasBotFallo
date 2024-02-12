@@ -1,4 +1,4 @@
-console.log('🌹ㅤejecutando GokuBotLite-MD...');
+console.log('🌹ㅤejecutando SebasBot...');
 import {join, dirname} from 'path';
 import {createRequire} from 'module';
 import {fileURLToPath} from 'url';
@@ -13,7 +13,7 @@ const {name, author} = require(join(__dirname, './package.json'));
 const {say} = cfonts;
 const rl = createInterface(process.stdin, process.stdout);
 
-say('Goku - Bot - Lite \nMD', {
+say('Sebas - Bot \nMD', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
@@ -32,7 +32,7 @@ function start(file) {
   isRunning = true;
   const args = [join(__dirname, file), ...process.argv.slice(2)];
 
-  say('Ajusta la pantalla para escanear el QR de GokuBotLite-MD', {
+  say('Ajusta la pantalla para escanear el QR de SebasBot-MD', {
     font: 'console',
     align: 'center',
     gradient: ['red', 'magenta']});
