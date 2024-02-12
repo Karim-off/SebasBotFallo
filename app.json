@@ -1,10 +1,10 @@
 {
-  "name": "LoboBot-MD",
-  "website": "https://github.com/JOSTINofc",
+  "name": "SebasBot",
+  "website": "https://github.com/Karim-off",
   "description": "Super WhatsApp bot",
-  "repository": "https://github.com/JOSTINofc/Goku-Bot-Lite",
+  "repository": "https://github.com/Karim-off/SebasBot",
   "logo": "WaBot",
-  "success_url": "https://github.com/JOSTINofc/Goku-Bot-Lite",
+  "success_url": "https://github.com/Karim-off/SebasBot",
   "keywords": [ 
     "nodejs", 
     "heroku", 
