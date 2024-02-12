@@ -1,12 +1,4 @@
->🌼𝗖𝗿𝗲𝗮𝗱𝗼𝗿: 𝙹𝙾𝚂𝚃𝙸𝙽 𝙾𝙵𝙲
-
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙰𝚉𝙰𝙼𝙸
-
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙳𝙸𝙴𝙶𝙾𝙹𝙰𝙳𝙸𝙱𝙾𝚃 
-
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙴𝙽𝚉𝙾
-
->🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 𝙰𝚇𝙴𝙻 
+>🤴𝗖𝗿𝗲𝗮𝗱𝗼𝗿: 𝙺𝙰𝚁𝙸𝙼-𝙾𝙵𝙵
 
 ## `💫𝙶𝙾𝙺𝚄-𝙱𝙾𝚃-𝙻𝙸𝚃𝙴-𝙼𝙳` 
 <p align="center">
@@ -16,8 +8,8 @@
 
 
 
-### `—◉ 🤖𝗚𝗼𝗸𝘂-𝗯𝗼𝘁-𝗟𝗶𝘁𝗲-𝗠𝗗🤖`
-<a href="https://api.whatsapp.com/send/?phone=595971684874&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+### `—◉ 🤖𝙎𝙚𝙗𝙖𝙨-𝘽𝙤𝙩-𝗠𝗗🤖`
+<a href="https://api.whatsapp.com/send/?phone=59168683798&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 😃𝗦𝗜 𝗡𝗢 𝗥𝗘𝗦𝗣𝗢𝗡𝗗𝗘 𝗘𝗦 𝗣𝗢𝗥 𝗤𝗨𝗘 𝗘𝗟 𝗡𝗨𝗠𝗘𝗥𝗢 𝗘𝗦𝗧𝗔 𝗘𝗡 𝗦𝗢𝗣𝗢𝗥𝗧𝗘 𝗬 𝗘𝗡 𝗘𝗦𝗘 𝗖𝗔𝗦𝗢 𝗛𝗔𝗕𝗟𝗘 𝗖𝗢𝗡 𝗘𝗟 𝗦𝗧𝗔𝗙𝗙💖
 
