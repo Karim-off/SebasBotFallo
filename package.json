@@ -1,7 +1,7 @@
 {
-  "name": "Goku-Bot-Lite",
+  "name": "Sebas-Bot",
   "version": "1.0.0",
-  "description": "Goku-Bot-Lite",
+  "description": "Sebas-Bot",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/JOSTINofc/Goku-Bot-Lite",
+  "homepage": "https://github.com/Karim-off/SebasBot",
   "author": {
     "name": "Jostin"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JOSTINofc/Goku-Bot-Lite.git"
+    "url": "git+https://github.com/Karim-off/SebasBot.git"
   },
   "bugs": {
-    "url": "https://github.com/JOSTINofc/Goku-Bot-Lite/issues"
+    "url": "https://github.com/Karim-off/SebasBot/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
