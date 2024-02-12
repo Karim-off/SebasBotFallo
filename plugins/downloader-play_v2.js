@@ -25,14 +25,14 @@ const handler = async (m, {command, usedPrefix, conn, text}) => {
       conn.reply(m.chat, `*_⏳Sᴇ ᴇsᴛᴀ ᴘʀᴏᴄᴇsᴀɴᴅᴏ Sᴜ ᴠɪᴅᴇᴏ...⏳_*`, m);
       try {
         const mediaa = await ytPlayVid(text);
-        const aa_2 = await conn.sendMessage(m.chat, {video: {url: mediaa.result}, fileName: `error.mp4`, caption: `_𝐓𝐡𝐞 𝐌𝐲𝐬𝐭𝐢𝐜 - 𝐁𝐨𝐭_`, thumbnail: mediaa.thumb, mimetype: 'video/mp4'}, {quoted: m});
+        const aa_2 = await conn.sendMessage(m.chat, {video: {url: mediaa.result}, fileName: `error.mp4`, caption: `𝙎𝙚𝙗𝙖𝙨𝘽𝙤𝙩-𝙈𝘿`, thumbnail: mediaa.thumb, mimetype: 'video/mp4'}, {quoted: m});
         if (!aa_2) {
         throw new Error('*[❗] El primero metodo fallo, intentando otro...*');
        }
       } catch {
         const res = await fetch(`https://api.lolhuman.xyz/api/ytplay2?apikey=${lolkeysapi}&query=${text}`);
         const json = await res.json();
-        await conn.sendFile(m.chat, json.result.video, 'error.mp4', `_𝐇𝐚𝐜𝐡𝐢𝐤𝐨 - 𝐁𝐨𝐭_`, m);
+        await conn.sendFile(m.chat, json.result.video, 'error.mp4', `𝙎𝙚𝙗𝙖𝙨𝘽𝙤𝙩-𝙈𝘿`, m);
       }
     }
   } catch {
