@@ -68,7 +68,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Lobo-termux
+> cd Sebas-termux
 > npm start
 ```
 
@@ -84,30 +84,16 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
  ### `—◉ 🌹DUDAS SOBRE EL BOT?,CONTACTA AL CREADOR🌹`
-<a href="http://wa.me/593939005387" target="blank"><img src="https://img.shields.io/badge/JOSTIN_CREATOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59168683798" target="blank"><img src="https://img.shields.io/badge/JOSTIN_CREATOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉📄✦CUSTOMER SUPPORT✦📄`
-<a href="http://wa.me/5939005387" target="blank"><img src="https://img.shields.io/badge/JOSTIN_COSTOMER_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/59168683798" target="blank"><img src="https://img.shields.io/badge/JOSTIN_COSTOMER_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ## `🌹EDITOR & PROPIETARIO DEL BOT🌹` 
-<a href="https://github.com/JOSTINofc"><img src="https://github.com/JOSTINofc.png" width="250" height="250" alt="Jostin"/></a>
+<a href="https://github.com/Karim-off"><img src="https://github.com/Karim-off.png" width="250" height="250" alt="Jostin"/></a>
   
-
-## `🌼COLABORADORES DEL BOT🌼` 
-<a href="[https://github.com/Jostin207]"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Jostin"/></a>
-<a href="[https://github.com/Jxtxn17]"><img src="https://github.com/Jxtxn17.png" width="100" height="100" alt="Jxtxn"/></a>
-<td align="center"><a 
-<a href="[https://github.com/diegojadibot]"><img src="https://github.com/diegojadibot.png" width="100" height="100" alt="Jxtxn"/></a>
-<td align="center"><a 
-  href="https://github.com/Aleixon127271"><img src="https://github.com/Aleixon127271.png?size=100" width="100px;" alt=""/><br /><sub><b>Aleixon</b></sub></a><br /><sub><i>Desarollador Oficial</i></sub></td>
-    <td align="center"><a   
-<td align="center"><a 
-  href="https://github.com/AzamiJs/CuriosityBot-MD"><img src="https://github.com/AzamiJs/CuriosityBot-MD.png?size=100" width="100px;" alt=""/><br /><sub><b>AzamiJs</b></sub></a><br /><sub><i>Desarollador Oficial</i></sub></td>
-    <td align="center"><a 
-
-
 
 
   
-`𝑮𝒐𝒌𝒖𝑩𝒐𝒕𝑳𝒊𝒕𝒆-𝑴𝑫-  𝙹𝙾𝚂𝚃𝙸𝙽 𝙾𝙵𝙲`
+`𝙎𝙚𝙗𝙖𝙨𝘽𝙤𝙩-𝙈𝘿-  𝙺𝙰𝚁𝙸𝙼-𝙾𝙵𝙵`
