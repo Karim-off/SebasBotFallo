@@ -1,4 +1,4 @@
-package lobo
+package Sebas
 
 import "jostin"
 
