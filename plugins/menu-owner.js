@@ -22,11 +22,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `┏━━━━━━━━━━━━━━━━┓
-┃𝑮𝒐𝒌𝒖𝑩𝒐𝒕𝑳𝒊𝒕𝒆-𝑴𝑫
-┗━━━━━━━━━━━━
+┃𝙎𝙀𝘽𝘼𝙎𝘽𝙊𝙏
+┣━━━━━━━━━━━━━━
 ┣⟣☯︎ 𝐸𝑛 𝐺𝑟𝑢𝑝𝑜𝑠: 𝙾𝚆𝙽𝙴𝚁
-┣⟣☯︎ 𝐶𝑟𝑒𝑎𝑑𝑜𝑟: 𝑱𝒐𝒔𝒕𝒊𝒏
-┣⟣☯︎ 𝑁𝑢𝑚𝑒𝑒𝑜: +593 939 005 387
+┣⟣☯︎ 𝐶𝑟𝑒𝑎𝑑𝑜𝑟: 𝙺𝚊𝚛𝚒𝚖
+┣⟣☯︎ 𝑁𝑢𝑚𝑒𝑒𝑜: +591 68683798
 ┣⟣☯︎ 𝐹𝑒𝑐ℎ𝑎: ${date}
 ┣⟣☯︎ 𝐴𝑐𝑡𝑖𝑣𝑖𝑑𝑎𝑑: ${uptime}
 ┣⟣☯︎ 𝑈𝑠𝑢𝑎𝑟𝑖𝑜𝑠: ${rtotalreg}
@@ -34,8 +34,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 
 ┏━━━━━━━━━━━━━━━━┓
 ┃⏤͟͟͞͞𝙊𝙒𝙉𝙀𝙍𝙎 𝙔 𝗦𝗧𝗔𝗙𝗙
-┗━━━━━━━━━━━━
-    ✪ ⃟🍭𝐶𝑟𝑒𝑎𝑑𝑜𝑟𝑒𝑠 - 𝑆𝑡𝑎𝑓𝑓
+┣━━━━━━━━━━━━━━━━
+┣🍭𝐶𝑟𝑒𝑎𝑑𝑜𝑟𝑒𝑠 - 𝑆𝑡𝑎𝑓𝑓
+┣━━━━━━━━━━━━━━━━
 ┣🗂  > 𝚏𝚞𝚗𝚌𝚒𝚘𝚗
 ┣🗂  => 𝚏𝚞𝚗𝚌𝚒𝚘𝚗
 ┣🗂  $ 𝚏𝚞𝚗𝚌𝚒𝚘𝚗
@@ -49,9 +50,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┣🗂  𝐛𝐥𝐨𝐜𝐤𝐥𝐢𝐬𝐭
 ┣🗂  𝐛𝐥𝐨𝐜𝐤 @𝚝𝚊𝚐 / 𝚗𝚞𝚖𝚎𝚛𝚘
 ┣🗂  𝐮𝐧𝐛𝐥𝐨𝐜𝐤 @𝚝𝚊𝚐 / 𝚗𝚞𝚖𝚎𝚛𝚘
-
-     ✪ ⃟🍧 𝐹𝑢𝑛𝑐𝑖𝑜𝑛𝑒𝑠 𝑆𝑡𝑎𝑓𝑓 - 𝑂𝑤𝑛𝑒𝑟𝑠
-
+┣━━━━━━━━━━━━━━━━
+┣🍧 𝐹𝑢𝑛𝑐𝑖𝑜𝑛𝑒𝑠 𝑆𝑡𝑎𝑓𝑓 - 𝑂𝑤𝑛𝑒𝑟𝑠
+┣━━━━━━━━━━━━━━━━
 ┣🌹  𝘁𝗿𝘂𝗲 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝
 ┣🌷  𝗳𝗮𝗹𝘀𝗲 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝
 ┣🌹  𝘁𝗿𝘂𝗲 𝚊𝚞𝚝𝚘𝚛𝚎𝚊𝚍
@@ -71,10 +72,10 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
 ┣🌹  𝘁𝗿𝘂𝗲 𝚊𝚞𝚍𝚒𝚘𝚜_𝚋𝚘𝚝
 ┣🌷  𝗳𝗮𝗹𝘀𝗲 𝚊𝚞𝚍𝚒𝚘𝚜_𝚋𝚘𝚝
 ┣🌹  𝘁𝗿𝘂𝗲 𝚊𝚗𝚝𝚒𝚜𝚙𝚊𝚖
-┣🌷  𝗳𝗮𝗹𝘀𝗲 𝙸𝚗𝚌𝚕𝚞𝚢
-𝚎
-     ✪ ⃟🍭𝑂𝑤𝑛𝑒𝑟 - 𝑆𝑡𝑎𝑓𝑓 - 𝐺𝑟𝑢𝑝𝑜𝑠
-
+┣🌷  𝗳𝗮𝗹𝘀𝗲 𝙸𝚗𝚌𝚕𝚞𝚢𝚎
+┣━━━━━━━━━━━━━━━━
+┣🍭𝑂𝑤𝑛𝑒𝑟 - 𝑆𝑡𝑎𝑓𝑓 - 𝐺𝑟𝑢𝑝𝑜𝑠
+┣━━━━━━━━━━━━━━━━
 ┣📕  𝐦𝐬𝐠 𝚝𝚎𝚡𝚝𝚘
 ┣📕  𝐫𝐞𝐮𝐧𝐢𝐨𝐧(𝐥𝐥𝐚𝐦𝐚𝐝𝐚 𝐨𝐰𝐧𝐞𝐫𝐬)
 ┣📕  𝗽𝗿𝗼𝗵𝗶𝗯𝗶𝗿𝗰𝗵𝗮𝘁
