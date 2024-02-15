@@ -1,6 +1,6 @@
 package Sebas
 
-import "jostin"
+import "karim"
 
 func lobo() {
     ender.Println("Basura eliminada!")
