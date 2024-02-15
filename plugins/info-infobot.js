@@ -24,7 +24,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   const info = `
      
    〘 𝑮𝒍𝒐𝒃𝒂𝒍 𝑰𝒏𝒇𝒐 〙 ═
-[🍭] 𝗢𝘄𝗻𝗲𝗿:Jostin 
+[🍭] 𝗢𝘄𝗻𝗲𝗿:Karim
 [🍪] 𝗣𝗿𝗲𝗳𝗶𝘅: ${usedPrefix}
 [🍸] 𝗣𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀:${chats.length - groups.length}
 [🍹] 𝗧𝗼𝘁𝗮𝗹 𝗴𝗿𝘂𝗽𝗼𝘀:${groups.length}
@@ -51,22 +51,22 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/JOSTINofc/Goku-Bot-Lite` },
+    document: { url: `https://www.instagram.com/usxr_angelito/` },
     mimetype: `application/${document}`,
-    fileName: `[𝑮𝒐𝒌𝒖𝑩𝒐𝒕𝑳𝒊𝒕𝒆]`,
+    fileName: `[𝙎𝙚𝙗𝙖𝙨𝘽𝙤𝙩]`,
     fileLength: 99999999999999,
     pageCount: 200,
     contextInfo: {
       forwardingScore: 200,
       isForwarded: true,
       externalAdReply: {
-        mediaUrl: "https://github.com/JOSTINofc/Goku-Bot-Lite",
+        mediaUrl: "https://www.instagram.com/usxr_angelito/",
         mediaType: 2,
         previewType: "pdf",
         title: "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ",
         body: wm,
         thumbnail: imagen1,
-        sourceUrl: "https://github.com/JOSTINofc/Goku-Bot-Lite",
+        sourceUrl: "https://www.instagram.com/usxr_angelito/",
       },
     },
     caption: info,
