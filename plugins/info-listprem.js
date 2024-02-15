@@ -9,7 +9,7 @@ const handler = async (m, {conn, args, isPrems}) => {
   const waktu = clockString(`${premTime - new Date() * 1} `);
   const sortedP = user.map(toNumber('premiumTime')).sort(sort('premiumTime'));
   const len = args[0] && args[0].length > 0 ? Math.min(100, Math.max(parseInt(args[0]), 10)) : Math.min(10, sortedP.length);
-  let infoprem = `   𝙻𝙾𝙱𝙾-𝙱𝙾𝚃-𝙼𝙳\n
+  let infoprem = `   𝚂𝙴𝙱𝙰𝚂-𝙱𝙾𝚃-𝙼𝙳\n
 「 💖𝗟𝗜𝗦𝗧𝗔 𝗩𝗜𝗣/𝗣𝗥𝗘𝗠𝗜𝗨𝗠💖 」
 
 —◉🧸 𝚄𝚂𝙴𝚁/𝚄𝚂𝚄𝙰𝚁𝙸𝙾: ${userr}
@@ -61,7 +61,7 @@ let usuario = global.db.data.users[m.sender].premiumTime
 let user = Object.entries(global.db.data.users).filter(user => user[1].premiumTime).map(([key, value]) => {
 return { ...value, jid: key }})
 let premTime = global.db.data.users[m.sender].premiumTime
-let prem = global.db.dat🧿 𝙶𝙾𝙺𝚄𝙱𝙾𝚃𝙻𝙸𝚃𝙴-𝙼𝙳 🔮a.users[m.sender].premium
+let prem = global.db.dat🧿 𝚂𝙴𝙱𝙰𝚂-𝙱𝙾𝚃-𝙼𝙳 🔮a.users[m.sender].premium
 let userr = await '@' + m.sender.split`@`[0]
 let waktu = clockString(`${premTime - new Date() * 1} `)
 let sortedP = user.map(toNumber('premiumTime')).sort(sort('premiumTime'))
