@@ -1,19 +1,19 @@
 const handler = async (m, {conn, usedPrefix}) => {
   const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
   const document = doc[Math.floor(Math.random() * doc.length)];
-  const text = `𝐇𝐨𝐥𝐚 𝐮𝐬𝐮𝐚𝐫𝐢𝐨 👋, 𝐓𝐞 𝐢𝐧𝐯𝐢𝐭𝐨 𝐚 𝐮𝐧𝐢𝐫𝐭𝐞 𝐚 𝐥𝐨𝐬 𝐠𝐫𝐮𝐩𝐨𝐬 𝐎𝐅𝐂 𝐝𝐞 𝑮𝒐𝒌𝒖𝑩𝒐𝒕𝑳𝒊𝒕𝒆-𝑴𝑫 :D
+  const text = `𝐇𝐨𝐥𝐚 𝐮𝐬𝐮𝐚𝐫𝐢𝐨 👋, 𝐓𝐞 𝐢𝐧𝐯𝐢𝐭𝐨 𝐚 𝐮𝐧𝐢𝐫𝐭𝐞 𝐚 𝐥𝐨𝐬 𝐠𝐫𝐮𝐩𝐨𝐬 𝐎𝐅𝐂 𝐝𝐞 𝐒𝐞𝐛𝐚𝐬𝐁𝐨𝐭 :D
 
 ➤ 𝐆𝐫𝐮𝐩𝐨𝐬 𝐨𝐟𝐢𝐜𝐢𝐚𝐥𝐞𝐬 𝐝𝐞𝐥 𝑮𝒐𝒌𝒖:
 
 🌹 𝐆𝐑𝐔𝐏𝐎 𝐎𝐅𝐂:
  
-༄ https://chat.whatsapp.com/G9MpDVmJtbiIpItEZpg70s ༆
+༄ https://chat.whatsapp.com/LcFTUnvu0Tw1tCnA2ybdR6 ༆
 
-🌹 𝗖𝗮𝗻𝗮𝗹 𝗚𝗼𝗸𝘂:
-༄ https://whatsapp.com/channel/0029VaJL0xn0LKZL7FtiRs1e ༄
+🌹 𝗖𝗮𝗻𝗮𝗹 𝙎𝙚𝙗𝙖𝙨𝘽𝙤𝙩:
+༄ https://whatsapp.com/channel/0029VaJxgcB0bIdvuOwKTM2Y ༄
 `.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/JOSTINofc/Goku-Bot-Lite`},
+    'document': {url: `https://www.instagram.com/usxr_angelito?igsh=OGY1bGE1d3EyY212`},
     'mimetype': `application/${document}`,
     'fileName': `「 𝗛𝗲𝗹𝗹𝗼 𝘄𝗼𝗿𝗹 」`,
     'fileLength': 99999999999999,
