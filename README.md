@@ -41,27 +41,7 @@
 ### `—◉ 📍𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝘁𝗲𝗿𝗺𝘂𝘅📍` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
-cd && termux-setup-storage
-```
-
-```bash
-apt-get update -y && apt-get upgrade -y
-```
-
-```bash
-pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
-```
-
-```bash
-git clone https://github.com/JOSTINofc/Goku-Bot-Lite.git && cd Goku-Bot-Lite
-```
-
-```bash
-npm install
-```
-
-```bash
-npm start
+Bot de uso exclusivo no publico
 ```
 
 ### `—◉ ✔️ACTIVAR EN CASO DE DETENERSE EN TERMUX✔️`
