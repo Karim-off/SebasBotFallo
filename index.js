@@ -17,7 +17,7 @@ say('Sebas - Bot \nMD', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']});
-say(`propietario Global Jostin`, {
+say(`BY:KARIM-MD`, {
   font: 'console',
   align: 'center',
   gradient: ['red', 'magenta']});
