@@ -6,7 +6,7 @@ El codigo de este archivo esta totalmente hecho por:
 - Aiden_NotLogic (https://github.com/ferhacks)
 
 El codigo de este archivo fue creado para:
-- TheMystic-Bot-MD (https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+- SebasBot (https://github.com/BrunoSobrino/TheMystic-Bot-MD)
 
 El codigo de este archivo fue parchado por:
 - ReyEndymion (https://github.com/ReyEndymion)
