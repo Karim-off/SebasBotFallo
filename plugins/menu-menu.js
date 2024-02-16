@@ -75,7 +75,7 @@ await conn.sendMessage(m.chat, {
         text: `*Hey* @${m.sender.split`@`[0]}
 𝗘𝗻𝘃𝗶𝗮𝗻𝗱𝗼 𝗺𝗲𝗻𝘂📍. . . 👀
 
-𝘿𝙮𝙡𝙖𝙣𝘽𝙤𝙩-𝙈𝘿.`,
+𝙎𝙚𝙗𝙖𝙨𝘽𝙤𝙩-𝙈𝘿.`,
         contextInfo: { 
           mentionedJid: [m.sender],
         }
