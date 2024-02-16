@@ -509,7 +509,7 @@ let menu = `┏━━━━━━━━━━━━━━━━┓
 ┣🍭 𝐜𝐚𝐫𝐭𝐨𝐨𝐧 𝚛𝚎𝚜𝚙𝚘𝚗𝚍𝚎𝚛 𝚊 𝚒𝚖𝚊𝚐𝚎𝚗
 ┗━━━━━━━━━━━━━━━━┛`.trim()
 //conn.sendFile(m.chat, pp, 'lp.jpg', menu, m, false, { contextInfo: { mentionedJid }})
-let img = await (await fetch(`https://cdn.discordapp.com/attachments/1202339620939898981/1203018213881806938/Menu1.jpg`)).buffer()  
+let img = await (await fetch(`https://telegra.ph/file/a41a6f1ab57f829887fec.jpg`)).buffer()  
 await conn.sendMessage(m.chat, {
 text: menu,
 contextInfo: { 
