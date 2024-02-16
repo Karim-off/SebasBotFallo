@@ -462,7 +462,7 @@ setInterval(async () => {
   const status = global.db.data.settings[conn.user.jid] || {};
   const _uptime = process.uptime() * 1000;
   const uptime = clockString(_uptime);
-  const bio = `𝙎𝙚𝙗𝙖𝙨𝘽𝙤𝙩-𝙈𝘿┃☆𝗜𝗻𝗳𝗼:𝗖𝗿𝗲𝗮𝗱𝗼𝗿☆┃𝗧𝗶𝗺𝗲${uptime}\n𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗷𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽`;
+  const bio = `፧፧ 𝙎𝙀𝘽𝘼𝙎 𝘽𝙊𝙏 ✅ ፧፧ 𝙢𝙖𝙭𝙞𝙢𝙖 𝙥𝙤𝙩𝙚𝙣𝙘𝙞𝙖🤖፧፧creador @usxr_angelito`;
   await conn.updateProfileStatus(bio).catch((_) => _);
 }, 60000);
 function clockString(ms) {
