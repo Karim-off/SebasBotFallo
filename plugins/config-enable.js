@@ -1,5 +1,6 @@
 const handler = async (m, {conn, usedPrefix, command, args, isOwner, isAdmin, isROwner}) => {
-  const optionsFull =`✦>𝗧𝗥𝗨𝗘,𝗙𝗔𝗟𝗦𝗘<✦
+  const optionsFull =`┏━━━━━━━━━━━━━━━━━━┓
+┣✦>𝗧𝗥𝗨𝗘,𝗙𝗔𝗟𝗦𝗘<✦
 ┣☆ ඬ⃟🌹.𝗧𝗿𝘂𝗲 𝘄𝗲𝗹𝗰𝗼𝗺𝗲:(ᴀᴅᴍɪɴs)
 ┣☆ ඬ⃟🌹.𝗙𝗮𝗹𝘀𝗲 𝘄𝗲𝗹𝗰𝗼𝗺𝗲:(ᴀᴅᴍɪɴs)
 ┣☆ ඬ⃟🌐.𝘁𝗿𝘂𝗲 𝗽𝘂𝗯𝗹𝗶𝗰:(ᴏᴡɴᴇʀs)
@@ -44,7 +45,8 @@ const handler = async (m, {conn, usedPrefix, command, args, isOwner, isAdmin, is
 ┣☆ ඬ⃟📼.𝗳𝗮𝗹𝘀𝗲 𝘀𝗶𝗺𝘀𝗶𝗺𝗶:(ᴏᴡɴᴇʀs)
 ┣☆ ඬ⃟⚙️.𝘁𝗿𝘂𝗲 𝗮𝘂𝗱𝗶𝗼𝘀_𝗯𝗼𝘁:(ᴏᴡɴᴇʀs)
 ┣☆ ඬ⃟⚙️.𝗳𝗮𝗹𝘀𝗲 𝗮𝘂𝗱𝗶𝗼𝘀_𝗯𝗼𝘁:(ᴏᴡɴᴇʀs)
- ☆> ( 𝑮𝒐𝒌𝒖𝑩𝒐𝒕𝑳𝒊𝒕𝒆-𝑴𝑫 1.5) <☆`.trim();
+┣ ☆> (𝑺𝑬𝑩𝑨𝑺 𝑩𝑶𝑻) <☆
+┗━━━━━━━━━━━━━━━━━━┛`.trim();
 
   const isEnable = /true|enable|(turn)?on|1/i.test(command);
   const chat = global.db.data.chats[m.chat];
