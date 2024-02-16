@@ -1,7 +1,7 @@
 {
-  "name": "Sebas-Bot",
+  "name": "SebasBot",
   "version": "1.0.0",
-  "description": "Sebas-Bot",
+  "description": "SebasBot",
   "main": "index.js",
   "type": "module",
   "directories": {
