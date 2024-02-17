@@ -107,7 +107,7 @@ loadChatgptDB();
 
 /* ------------------------------------------------*/
 
-global.authFile = `SebasSession`;
+global.authFile = `GokuSession`;
 const {state, saveState, saveCreds} = await useMultiFileAuthState(global.authFile);
 const msgRetryCounterMap = (MessageRetryMap) => { };
 const {version} = await fetchLatestBaileysVersion();
@@ -134,7 +134,7 @@ const connectionOptions = {
     creds: state.creds,
     keys: makeCacheableSignalKeyStore(state.keys, pino({level: 'silent'})),
   },
-  browser: ['SebasBot', 'Safari', '1.0.0'],
+  browser: ['sebasito-MD', 'Safari', '1.0.0'],
   version,
   defaultQueryTimeoutMs: undefined,
 };
@@ -200,7 +200,7 @@ console.log(chalk.bold.red(`=> Algo salio mal durante la eliminación, archivos 
 }}
 
 function purgeOldFiles() {
-const directories = ['./SebasSession/', './jadibts/']
+const directories = ['./SebaSession/', './jadibts/']
 const oneHourAgo = Date.now() - (60 * 60 * 1000)
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
@@ -235,7 +235,7 @@ async function connectionUpdate(update) {
   }
   if (connection == 'open') {
     console.log(chalk.yellow('▣──────────────────────────────···\n│\n│❧ 𝙲𝙾𝙽𝙴𝙲𝚃𝙰𝙳𝙾 𝙲𝙾𝚁𝚁𝙴𝙲𝚃𝙰𝙼𝙴𝙽𝚃𝙴 𝙰𝙻 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 ✅\n│\n▣──────────────────────────────···'))
-conn.fakeReply('59168683798@s.whatsapp.net', '🚀💖 𝑯𝒐𝒍𝒂 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 𝑺𝒐𝒚 𝐒𝐞𝐛𝐚𝐬𝐁𝐨𝐭-𝐌𝐃\n𝑹𝒆𝒄𝒊𝒆𝒏𝒕𝒆𝒎𝒆𝒏𝒕𝒆 𝑴𝒆 𝑯𝒆 𝑪𝒐𝒏𝒆𝒄𝒕𝒂𝒅𝒐 𝑪𝒐𝒎𝒐 𝑼𝒏 𝑵𝒖𝒆𝒗𝒐 𝑩𝒐𝒕 𝑶𝒇𝒊𝒄𝒊𝒂𝒍', '0@s.whatsapp.net', '✨️𝙎𝙚𝙗𝙖𝙨𝘽𝙤𝙩-𝙈𝘿✨', '0@s.whatsapp.net')
+conn.fakeReply('59168683798@s.whatsapp.net', '🚀💖 𝑯𝒐𝒍𝒂 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 𝑺𝒐𝒚 𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕-𝑴𝑫\n𝑹𝒆𝒄𝒊𝒆𝒏𝒕𝒆𝒎𝒆𝒏𝒕𝒆 𝑴𝒆 𝑯𝒆 𝑪𝒐𝒏𝒆𝒄𝒕𝒂𝒅𝒐 𝑪𝒐𝒎𝒐 𝑼𝒏 𝑵𝒖𝒆𝒗𝒐 𝑩𝒐𝒕 𝑶𝒇𝒊𝒄𝒊𝒂𝒍', '0@s.whatsapp.net', '✨️𝑺𝒆𝒃𝒂𝒔𝑩𝒐𝒕-𝑴𝑫✨', '0@s.whatsapp.net')
   }
 let reason = new Boom(lastDisconnect?.error)?.output?.statusCode;
 if (connection === 'close') {
@@ -300,7 +300,7 @@ global.reloadHandler = async function(restatConn) {
     conn.ev.off('creds.update', conn.credsUpdate);
   }
 
-    conn.welcome = '*╔════════════════*\n*╟❧ @subject*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝗕𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼/𝗮* \n*║*\n*╟❧ 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙘𝙞𝙤𝙣 𝙙𝙚𝙡 𝙜𝙧𝙪𝙥𝙤:*\n\n@desc\n\n*║*\n*╟❧ 𝗘𝘅𝗰𝗲𝗹𝗲𝗻𝘁𝗲 𝗲𝘀𝘁𝗮𝗱𝗶𝗮!!*\n*╚════════════════*';
+  conn.welcome = '*╔════════════════*\n*╟❧ @subject*\n*╠══════════════*\n*╟❧ @user*\n*╟❧ 𝗕𝗶𝗲𝗻𝘃𝗲𝗻𝗶𝗱𝗼/𝗮* \n*║*\n*╟❧ 𝘿𝙚𝙨𝙘𝙧𝙞𝙥𝙘𝙞𝙤𝙣 𝙙𝙚𝙡 𝙜𝙧𝙪𝙥𝙤:*\n\n@desc\n\n*║*\n*╟❧ 𝗘𝘅𝗰𝗲𝗹𝗲𝗻𝘁𝗲 𝗲𝘀𝘁𝗮𝗱𝗶𝗮!!*\n*╚════════════════*';
   conn.bye = '*╔════════════════*\n*╟❧ @user*\n*╟❧ ¡𝙃𝘼𝙎𝙏𝘼 𝙋𝙍𝙊𝙉𝙏𝙊! 👋🏻* \n*╟❧ ¡𝙉𝙊 𝙏𝙀 𝙀𝙓𝙏𝙍𝘼Ñ𝘼𝙍𝙀𝙈𝙊𝙎!⚡* \n*╚════════════════*';
   conn.spromote = '❱❱ *𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝚅𝙾* ❰❰ ❕\n@user   *NUEVO ADMIN EN* \n*» @subject* \n➤𝙎𝙀𝘽𝘼𝙎 𝘽𝙊𝙏';
   conn.sdemote = '[↪️] @user 𝐋𝐨 𝐬𝐢𝐞𝐧𝐭𝐨,𝐘𝐚 𝐧𝐨 𝐞𝐫𝐞𝐬 𝐚𝐝𝐦𝐢𝐧 𝐝𝐞𝐥 𝐠𝐫𝐮𝐩𝐨.';
