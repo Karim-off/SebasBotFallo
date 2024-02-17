@@ -134,7 +134,7 @@ const connectionOptions = {
     creds: state.creds,
     keys: makeCacheableSignalKeyStore(state.keys, pino({level: 'silent'})),
   },
-  browser: ['sebasito-MD', 'Safari', '1.0.0'],
+  browser: ['Sebasito-MD', 'Safari', '1.0.0'],
   version,
   defaultQueryTimeoutMs: undefined,
 };
@@ -200,7 +200,7 @@ console.log(chalk.bold.red(`=> Algo salio mal durante la eliminación, archivos 
 }}
 
 function purgeOldFiles() {
-const directories = ['./SebaSession/', './jadibts/']
+const directories = ['./GokuSession/', './jadibts/']
 const oneHourAgo = Date.now() - (60 * 60 * 1000)
 directories.forEach(dir => {
 readdirSync(dir, (err, files) => {
