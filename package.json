@@ -1,7 +1,7 @@
 {
-  "name": "SebasBot",
+  "name": "SebasBotfallo",
   "version": "1.0.0",
-  "description": "SebasBot",
+  "description": "SebasBotfallo",
   "main": "index.js",
   "type": "module",
   "directories": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/Karim-off/SebasBot",
+  "homepage": "",
   "author": {
     "name": "Karim-off"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Karim-off/SebasBot.git"
+    "url": ""
   },
   "bugs": {
-    "url": "https://github.com/Karim-off/SebasBot/issues"
+    "url": "/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
