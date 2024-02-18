@@ -1,10 +1,10 @@
 {
-  "name": "SebasBot",
-  "website": "https://github.com/Karim-off",
+  "name": "xd",
+  "website": "",
   "description": "Super WhatsApp bot",
-  "repository": "https://github.com/Karim-off/SebasBot",
+  "repository": "",
   "logo": "WaBot",
-  "success_url": "https://github.com/Karim-off/SebasBot",
+  "success_url": "",
   "keywords": [ 
     "nodejs", 
     "heroku", 
